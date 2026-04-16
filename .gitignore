@@ -1,0 +1,33 @@
+# Gradle files
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+local.properties
+
+# Build files
+gen/
+bin/
+.classpath
+.project
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS
+Thumbs.db
+
+# Output
+out/
+dist/
