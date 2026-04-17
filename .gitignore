@@ -1,0 +1,21 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dependencies
+package-lock.json
+yarn.lock
